@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+	font-family: "Calibri";
+	font-size: 44px;
+}
+
+header {
+	text-align: center;
+	font-family: "Calibri";
+	font-size: 22px;
+}
+
+section {
+	text-align: left;
+	font-family: "Calibri";
+	font-size: 22px;
+	font-weight: bold;
+}
+
+ul {
+	font-family: "Calibri";
+	font-size: 22px;
+	list-style-type: circle;
+}
+
+body {
+	font-family: "Calibri";
+	font-size: 22px;
+}
+.right{
+    float:right;
+}
+
+.center {
+	float:center;
+}
+
+.left{
+    float:left;
+}
